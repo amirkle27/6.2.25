@@ -1,4 +1,4 @@
-from bonus_component import ComponentRecursive
+from bonus_recursive_component import ComponentRecursive
 from folder_recursive import FolderRecursive
 from file_recursive import FileRecursive
 import os
