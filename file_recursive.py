@@ -1,6 +1,6 @@
 import os
 
-from bonus_component import ComponentRecursive
+from bonus_recursive_component import ComponentRecursive
 from typing import override
 
 
